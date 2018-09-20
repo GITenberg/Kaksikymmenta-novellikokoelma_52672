@@ -1,0 +1,44 @@
+_repo: Kaksikymmenta-novellikokoelma_52672
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Silvanto, Reino
+    birthdate: 1883
+    gutenberg_agent_id: '45093'
+    url: http://www.gutenberg.org/2009/agents/45093
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Чехов, Антон Павлович
+    - Chekov, Anton Pavlovich
+    - Tchekhov, Anton
+    - Tshehov, Anton
+    - Tschechow, Anton
+    - Tchekhoff, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2016-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52672'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Russian -- Translations into Finnish'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcc 'PG'
+- GITenberg
+tableOfContents: Asianmukaisia toimenpiteitä -- Kauhea yö -- Naimiskauppa -- Soittajan
+  seikkailu -- Salaisuus -- Hyvin kävi -- Paha poika -- Kumma kuvastin -- Kyökkipiian
+  naiminen -- Virkamiehen kuolema -- Liiotteli -- Naamioitu -- Leikinlasku -- Hammassärky
+  -- Neiti N. N:n kertomus -- Ilkityö -- Samppanja -- Vedonlyönti -- Kuuluisuus --
+  Ikäviä ihmisiä.
+title: 'Kaksikymmentä: novellikokoelma'
+url: http://www.gutenberg.org/ebooks/52672
